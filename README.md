@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Hassn
 
+- 💬 Ask me about how to get into web development.
+- 🔭 My Profile and Articals in Medium Site :link: [Link](https://medium.com/@hassan.najjar) :link:
 <!--
-**ha77an/ha77an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
