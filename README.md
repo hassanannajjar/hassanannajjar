@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Hassn
 
 - 💬 Ask me about how to get into web development.
-- 🔭 My Profile and Articals in Medium Site :link: [Link](https://medium.com/@hassan.najjar) :link:
+- 🔭 My Profile and Articals in Medium Site :link: [Link](https://medium.com/@hassanannajjar) :link:
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
