@@ -48,6 +48,5 @@
 <code><img  alt="MongoDB" width="50px" src="https://i0.wp.com/www.disk91.com/wp-content/uploads/2018/02/mongodb-1.png?fit=413%2C484&ssl=1" /></code>
 <code><img  alt="PostgreSQL" width="50px" src="https://developer.asustor.com/uploadIcons/0020_96009_1576292700_postgresql-icon.png" /></code>
 <code><img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 </br>
 </br>
