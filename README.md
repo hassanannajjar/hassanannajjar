@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Hassn
 
 - 💬 Ask me about how to get into web development.
-- 🌱 I’m currently learning AWS :dart: 
+- 🌱 I’m currently Work in new react native project ( Food Delivery )
 - 🔭 My Articals in Medium Site :link: [Link](https://medium.com/@hassanannajjar) :link: 
 - :computer:  [My Setup](https://medium.com/@hassanannajjar/setup-your-device-as-a-web-developer-fa14632fde6d) :computer: 
 - ⚡ Fun fact: I love play shooter Games :video_game: Call of duty & Battlefield
@@ -9,6 +9,7 @@
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning AWS :dart: 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -41,7 +42,6 @@
 <code><img  alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img  alt="Material UI" width="50px" src="https://img-learnstack-io.sgp1.digitaloceanspaces.com/tool/E8gFxEvH9zx9YcepqkbD8TUVPXHmlANJ5qklZ6zK.jpeg" /></code>
 <code><img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img  alt="Typescript" width="50px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" /></code>
 <code><img  alt="Jest" width="50px" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" /></code>
 <code><img  alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img  alt="Node.js" width="50px" src="https://miro.medium.com/proxy/1*q9ww_u32hhpMaA-Q_s1ujw.png" /></code>
