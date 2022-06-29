@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Hassn
 
-- 💬 Ask me about how to get into web development.
+- 💬 Ask me about how to get into Mobile development.
 - 🌱 I’m currently Work in new react native project ( Food Delivery )
 - 🔭 My Articals in Medium Site :link: [Link](https://medium.com/@hassanannajjar) :link: 
 - :computer:  [My Setup](https://medium.com/@hassanannajjar/setup-your-device-as-a-web-developer-fa14632fde6d) :computer: 
@@ -36,17 +36,9 @@
 <br/>
 
 ### Languages and Tools:
-<code><img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img  alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img  alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
-<code><img  alt="Material UI" width="50px" src="https://img-learnstack-io.sgp1.digitaloceanspaces.com/tool/E8gFxEvH9zx9YcepqkbD8TUVPXHmlANJ5qklZ6zK.jpeg" /></code>
-<code><img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img  alt="Jest" width="50px" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png" /></code>
-<code><img  alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img  alt="Node.js" width="50px" src="https://miro.medium.com/proxy/1*q9ww_u32hhpMaA-Q_s1ujw.png" /></code>
-<code><img  alt="MongoDB" width="50px" src="https://i0.wp.com/www.disk91.com/wp-content/uploads/2018/02/mongodb-1.png?fit=413%2C484&ssl=1" /></code>
-<code><img  alt="PostgreSQL" width="50px" src="https://developer.asustor.com/uploadIcons/0020_96009_1576292700_postgresql-icon.png" /></code>
-<code><img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img  alt="React Native" width="80px" src="https://i.imgur.com/ad1Aunt.png" /></code>
+<code><img  alt="Flutter" width="80px" src="https://i.imgur.com/Tg4ISss.png" /></code>
+<code><img  alt="React" width="80px" src="https://i.imgur.com/FqGImWy.png" /></code>
+<code><img  alt="Git" width="80px" src="https://i.imgur.com/OP1kFw7.png" /></code>
 </br>
 </br>
