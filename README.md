@@ -36,7 +36,7 @@
 <br/>
 
 ### Languages and Tools:
-<code><img  alt="React Native" width="80px" src="https://i.imgur.com/ad1Aunt.png" /></code>
+<code><img  alt="React Native" width="120px" src="https://i.imgur.com/ad1Aunt.png" /></code>
 <code><img  alt="Flutter" width="80px" src="https://i.imgur.com/Tg4ISss.png" /></code>
 <code><img  alt="React" width="80px" src="https://i.imgur.com/FqGImWy.png" /></code>
 <code><img  alt="Git" width="80px" src="https://i.imgur.com/OP1kFw7.png" /></code>
