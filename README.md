@@ -4,8 +4,9 @@
 - 🌱 I’m currently Work in [Common UI toolkit](https://pub.dev/packages/common_ui_toolkit) (Ui package for flutter)
 - 🔭 My Articals in Medium Site :link: [Link](https://medium.com/@hassanannajjar) :link: 
 - :computer:  [My Setup](https://medium.com/@hassanannajjar/setup-your-device-as-a-web-developer-fa14632fde6d) :computer: 
+<!--
 - ⚡ Fun fact: I love play shooter Games :video_game: Call of duty & Battlefield
-
+-->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
